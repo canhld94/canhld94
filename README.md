@@ -1,5 +1,3 @@
-Hive there {P_P}
+Hi there {P_P}
 
-People say `Hello World`
-
-I say `SELECT 1`
+I work with database and storage.
